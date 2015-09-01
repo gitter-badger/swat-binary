@@ -13,7 +13,7 @@ INSTALL
         make test
         make install
 
-    # OR
+    OR
 
         sudo cpan swat::bdc
 
@@ -53,7 +53,7 @@ Sample Output
         Result: PASS
 
 HOME PAGE
-    https://github.com/melezhik/swat-packages/tree/master/binary.com
+    https://github.com/binary-com/swat-binary
 
 COPYRIGHT
     Copyright 2015 Alexey Melezhik.

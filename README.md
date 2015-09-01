@@ -13,7 +13,7 @@ A limited set of routes is tested. GET / and POST /d/trade\_price.cgi.
     make test
     make install
 
-\# OR
+OR
 
     sudo cpan swat::bdc
 
@@ -57,7 +57,7 @@ A limited set of routes is tested. GET / and POST /d/trade\_price.cgi.
 
 # HOME PAGE
 
-https://github.com/melezhik/swat-packages/tree/master/binary.com
+https://github.com/binary-com/swat-binary
 
 # COPYRIGHT
 

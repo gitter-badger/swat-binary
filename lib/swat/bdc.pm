@@ -1,5 +1,5 @@
 package swat::bdc;
-our $VERSION = '0.1.3';
+our $VERSION = '0.1.4';
 1;
 
 __END__
@@ -20,7 +20,7 @@ A limited set of routes is tested. GET / and POST /d/trade_price.cgi.
     make test
     make install
 
-# OR
+OR
 
 
     sudo cpan swat::bdc
@@ -66,8 +66,7 @@ A limited set of routes is tested. GET / and POST /d/trade_price.cgi.
 
 =head1 HOME PAGE
 
-https://github.com/melezhik/swat-packages/tree/master/binary.com
-
+https://github.com/binary-com/swat-binary
 
 =head1 COPYRIGHT
 
