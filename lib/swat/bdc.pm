@@ -1,27 +1,36 @@
-# SYNOPSIS
+package swat::bdc;
+our $VERSION = '0.1.3';
+1;
 
-[Swat](https://github.com/melezhik/swat) tests for https://www.binary.com. 
+__END__
+
+
+=head1 SYNOPSIS
+
+L<Swat|https://github.com/melezhik/swat> tests for https://www.binary.com. 
 
 This is simple test suit could be used in various CI processes, f.e. when running tests in Travis.
 
-A limited set of routes is tested. GET / and POST /d/trade\_price.cgi. 
+A limited set of routes is tested. GET / and POST /d/trade_price.cgi. 
 
-# INSTALL
+=head1 INSTALL
 
     perl Makefile.PL
     make
     make test
     make install
 
-\# OR
+# OR
+
 
     sudo cpan swat::bdc
 
-# USAGE
+=head1 USAGE
 
     $ swat swat::bdc https://www.binary.com 
 
-# Sample Output
+
+=head1 Sample Output
 
     $ swat swat::bdc https://www.binary.com -v
 
@@ -55,16 +64,19 @@ A limited set of routes is tested. GET / and POST /d/trade\_price.cgi.
     Result: PASS
     
 
-# HOME PAGE
+=head1 HOME PAGE
 
 https://github.com/melezhik/swat-packages/tree/master/binary.com
 
-# COPYRIGHT
+
+=head1 COPYRIGHT
 
 Copyright 2015 Alexey Melezhik.
 
 This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
 
-# AUTHOR
+
+=head1 AUTHOR
 
 Alexey Melezhik
+
