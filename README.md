@@ -1,5 +1,7 @@
 # SYNOPSIS
 
+[![Join the chat at https://gitter.im/binary-com/swat-binary](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/binary-com/swat-binary?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Swat](https://github.com/melezhik/swat) tests for https://www.binary.com. 
 
 This is simple test suit could be used in various CI processes, f.e. when running tests in Travis.
